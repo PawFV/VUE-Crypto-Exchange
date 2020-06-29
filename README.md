@@ -1,4 +1,4 @@
-# nachito
+# CryptoExchange
 
 ## Project setup
 ```
